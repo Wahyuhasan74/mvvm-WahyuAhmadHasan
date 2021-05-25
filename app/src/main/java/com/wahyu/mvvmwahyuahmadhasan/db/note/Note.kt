@@ -1,4 +1,4 @@
-package com.wahyu.mvvmwahyuahmadhasan
+package com.wahyu.mvvmwahyuahmadhasan.db.note
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

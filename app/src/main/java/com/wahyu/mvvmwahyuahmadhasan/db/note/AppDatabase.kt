@@ -1,4 +1,4 @@
-package com.wahyu.mvvmwahyuahmadhasan
+package com.wahyu.mvvmwahyuahmadhasan.db.note
 
 import android.content.Context
 import androidx.room.Database

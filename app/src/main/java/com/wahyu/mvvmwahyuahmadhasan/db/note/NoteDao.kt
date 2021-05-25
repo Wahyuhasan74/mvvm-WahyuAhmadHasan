@@ -1,7 +1,8 @@
-package com.wahyu.mvvmwahyuahmadhasan
+package com.wahyu.mvvmwahyuahmadhasan.db.note
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import com.wahyu.mvvmwahyuahmadhasan.db.note.Note
 
 @Dao
 interface NoteDao {

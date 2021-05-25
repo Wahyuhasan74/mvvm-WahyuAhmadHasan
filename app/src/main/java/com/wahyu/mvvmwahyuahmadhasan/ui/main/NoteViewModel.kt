@@ -1,8 +1,10 @@
-package com.wahyu.mvvmwahyuahmadhasan
+package com.wahyu.mvvmwahyuahmadhasan.ui.main
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
+import com.wahyu.mvvmwahyuahmadhasan.db.note.Note
+import com.wahyu.mvvmwahyuahmadhasan.db.note.NoteRepository
 
 class NoteViewModel(application: Application) : AndroidViewModel(application) {
 

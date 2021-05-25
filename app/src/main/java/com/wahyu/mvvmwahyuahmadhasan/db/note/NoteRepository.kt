@@ -1,7 +1,10 @@
-package com.wahyu.mvvmwahyuahmadhasan
+package com.wahyu.mvvmwahyuahmadhasan.db.note
 
 import android.app.Application
 import androidx.lifecycle.LiveData
+import com.wahyu.mvvmwahyuahmadhasan.db.note.AppDatabase
+import com.wahyu.mvvmwahyuahmadhasan.db.note.Note
+import com.wahyu.mvvmwahyuahmadhasan.db.note.NoteDao
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
